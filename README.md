@@ -19,6 +19,9 @@ cd web-article-manager
 npm install
 npm run install:all
 ```
+
+Then go to backend/.env and change **MONGODB_URI** to **your own**
+
 To start
 ```bash
 npm run start:all
